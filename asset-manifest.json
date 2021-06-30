@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://davidvromano.github.io/csb-reysc/static/js/main.5d56ff63.chunk.js",
+    "main.js.map": "https://davidvromano.github.io/csb-reysc/static/js/main.5d56ff63.chunk.js.map",
+    "runtime-main.js": "https://davidvromano.github.io/csb-reysc/static/js/runtime-main.db8b98df.js",
+    "runtime-main.js.map": "https://davidvromano.github.io/csb-reysc/static/js/runtime-main.db8b98df.js.map",
+    "static/js/2.a7d772a9.chunk.js": "https://davidvromano.github.io/csb-reysc/static/js/2.a7d772a9.chunk.js",
+    "static/js/2.a7d772a9.chunk.js.map": "https://davidvromano.github.io/csb-reysc/static/js/2.a7d772a9.chunk.js.map",
+    "index.html": "https://davidvromano.github.io/csb-reysc/index.html",
+    "precache-manifest.8ed7b5b2829686934138ed18c7ce0bfc.js": "https://davidvromano.github.io/csb-reysc/precache-manifest.8ed7b5b2829686934138ed18c7ce0bfc.js",
+    "service-worker.js": "https://davidvromano.github.io/csb-reysc/service-worker.js",
+    "static/js/2.a7d772a9.chunk.js.LICENSE.txt": "https://davidvromano.github.io/csb-reysc/static/js/2.a7d772a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db8b98df.js",
+    "static/js/2.a7d772a9.chunk.js",
+    "static/js/main.5d56ff63.chunk.js"
+  ]
+}
